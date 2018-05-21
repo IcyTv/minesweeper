@@ -15,7 +15,7 @@ import org.json.simple.parser.JSONParser;
 public abstract class Request {
 	
 	private static final String USER_AGENT = "Mozilla/5.0";
-	private static final String BASE_IP = "https://minesweeper-multiplayer.herokuapp.com/";
+	private static final String BASE_IP = "https://minesweeper-multiplayer.herokuapp.com";
 	/**
 	 * Performs an HTTP GET request
 	 * 
